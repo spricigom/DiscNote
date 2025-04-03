@@ -1,4 +1,4 @@
-#DiscNote
+# DiscNote
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
@@ -34,29 +34,33 @@ Links do projeto:
 
 O DiscNote é um aplicativo dedicado a amantes de música, permitindo que os usuários compartilhem suas opiniões sobre músicas, álbuns e artistas, descubram novos lançamentos e interajam com outros fãs. A plataforma oferece resenhas, notas, comentários e criação de comunidades. O aplicativo visa criar uma comunidade engajada e apaixonada por música, promovendo a troca de opiniões e a descoberta constante de novos sons.
 
+
+
 # 2. Situação Problema
 
 O DiscNote é uma plataforma para compartilhamento de resenhas de músicas e álbuns, com o objetivo da criação de uma comunidade agrádavel para os seus usuários, onde eles podem exprimir suas opiniões sobre o mundo musical. Atualmente, está cada vez mais díficil encontrar lugares focados em resenhas críticas e completas sobre música na internet 
 
 
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+O DiscNote é uma plataforma onde as pessoas poderão compartilhar resenhas sobre músicas e álbuns de sua preferência. A plataforma visa fornecer um ambiente comunitário onde os usuários possam discutir criticamente todas as coisas musicais e abordar os tópicos de música de interesse. Atualmente, existe uma grande dificuldade em encontrar espaços na internet que sejam dedicados exclusivamente a resenhas críticas e completas sobre música.
+
+Boa parte do conteúdo musical online está em redes sociais, que não se concentram especificamente em fornecer resenhas musicais aprofundadas. Além disso, muitos sites que abordam música acabam priorizando notícias rápidas ou listas comerciais, deixando de lado um espaço específico para críticas detalhadas e discussões entre os usuários.
+Essa falta de locais específicos impacta diretamente os apaixonados por música que procuram recomendações fundamentadas e análises de qualidade, além de limitar as oportunidades de interação entre pessoas com interesses musicais semelhantes.
+
+O DiscNote surge para preencher essa lacuna, proporcionando um ambiente que promova tanto o compartilhamento de opiniões quanto a troca de ideias de maneira respeitosa, reunindo pessoas que compartilham a paixão pela música.
+
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+O DiscNote será uma plataforma digital que facilitará a criação, publicação e compartilhamento de resenhas musicais, promovendo um espaço interativo e acolhedor para discussões sobre músicas e álbuns. O foco da aplicação será proporcionar um ambiente comunitário onde os usuários possam expressar suas opiniões, compartilhar recomendações e descobrir novas músicas e artistas.
 
-**Alguns pontos importantes a se destacar são:**
+O sistema contará com dois níveis de usuários:
 
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
+-   Usuários Comuns: Poderão criar perfis, postar resenhas, curtir e comentar as postagens de outros membros da comunidade. Também poderão criar listas temáticas e seguir perfis favoritos.
 
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+-   Moderadores: Terão acesso a ferramentas administrativas para monitorar o conteúdo, garantindo que as interações respeitem as diretrizes da comunidade e mantendo o ambiente seguro e agradável para todos.
+
+Além disso, o DiscNote permitirá a criação de listas personalizadas, a visualização de perfis e resenhas populares e a interação direta por meio de comentários e curtidas. Dessa forma, a aplicação proporcionará um espaço organizado e funcional para quem deseja se aprofundar no universo musical de forma crítica e colaborativa.
+
 
 # 4. Modelagem de Dados
 
