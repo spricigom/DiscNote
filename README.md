@@ -64,10 +64,7 @@ Além disso, o DiscNote permitirá a criação de listas personalizadas, a visua
 
 # 4. Modelagem de Dados
 
-(*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
-
-Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
-
+![Modelo DiscNote](https://github.com/user-attachments/assets/a9dec515-8ff1-4910-85b5-724bdfc6a614)
 
 
 # 4. Regras de negócio
@@ -140,7 +137,7 @@ repassar ao cliente para aprovação, e caso o cliente aprovar, a atendente deve
 
 # 5. Requisitos funcionais
 R.F. 01 - Cadastro Usuário: O sistema deve manter cadastro de usuário.
-Dados: email, nome, senha e cpf.
+Dados: nickname, email, nome, senha e confirmação de senha.
 Usuário: Comum e moderador.
 
 
@@ -181,6 +178,13 @@ Usuário: comum.
 R.F. 12 - Favoritar Resenha: O sistema deve permitir favoritar resenhas para acesso posterior.
 Usuário: comum.
 
+R.F. 13 - Álbum: O sistema deve permitir adicionar e manter álbuns.
+Dados: nome, artista, ano.
+Usuário: comum e moderador.
+
+R.F. 14 - Música: O sistema deve permitir adicionar e manter músicas.
+Dados: nome, artista, ano
+Usuário: comum e moderador.
 # 6. Requisitos não funcionais
 
 Requisitos não funcionais (**RNFs**) são as restrições impostas a um sistema que definem seus atributos de qualidade.
