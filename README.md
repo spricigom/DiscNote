@@ -64,7 +64,7 @@ Além disso, o DiscNote permitirá a criação de listas personalizadas, a visua
 
 # 4. Modelagem de Dados
 
-![Modelo DiscNote](https://github.com/user-attachments/assets/a9dec515-8ff1-4910-85b5-724bdfc6a614)
+![Modelo DiscNote](![banco-atual](https://github.com/user-attachments/assets/dfdef257-9927-4061-8208-6120840dff05))
 
 
 # 4. Regras de negócio
