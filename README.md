@@ -13,10 +13,9 @@ Equipe:
 - [Manuela Hostim Moreira](github.com/manuhostin)
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
--   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/spricigom/DiscNote-Backend.git) e [Publicação](https://discnote-backend.onrender.com)
+-   Frontend: [Repositório](https://github.com/spricigom/DiscNote-Frontend.git) e [Publicação](https://discnote-frontend.vercel.app/)
 
 **Como usar esse modelo para o Projeto Integrador**
 
