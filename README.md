@@ -19,10 +19,10 @@ Links do projeto:
 -   Frontend: [Repositório](https://github.com/spricigom/DiscNote-Frontend.git) e [Publicação](https://discnote-frontend.vercel.app/)
 
 **Entrega 2° Trimestre**
-05/09 - Backend pronto (tabelas e API do spotify) 
-05/09 - Figma pronto 
-10/09 - Integração back front 
-19/09 - Front páginas: landing, perfil, criar resenha, musicas, pagina da musica, cadastro e login.
+- 05/09 - Backend pronto (tabelas e API do spotify) 
+- 05/09 - Figma pronto 
+- 10/09 - Integração back front 
+- 19/09 - Front páginas: landing, perfil, criar resenha, musicas, pagina da musica, cadastro e login.
 
 # 1. Descrição do projeto
 
