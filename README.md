@@ -14,20 +14,15 @@ Equipe:
 
 Links do projeto:
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
+-   [Figma](https://www.figma.com/design/OcAqykHvH48TDiONnxIVM9/DiscNote?node-id=0-1&t=0QNRzxrG0poq3Br9-1)
 -   Backend: [Repositório](https://github.com/spricigom/DiscNote-Backend.git) e [Publicação](https://discnote-backend.onrender.com)
 -   Frontend: [Repositório](https://github.com/spricigom/DiscNote-Frontend.git) e [Publicação](https://discnote-frontend.vercel.app/)
 
-**Como usar esse modelo para o Projeto Integrador**
-
-*(Essa parte pode ser apagada depois.)*
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instaladas as seguintes extensões:
-   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-5. Edite o arquivo README.md com as informações do seu projeto.
+**Entrega 2° Trimestre**
+05/09 - Backend pronto (tabelas e API do spotify) 
+05/09 - Figma pronto 
+10/09 - Integração back front 
+19/09 - Front páginas: landing, perfil, criar resenha, musicas, pagina da musica, cadastro e login.
 
 # 1. Descrição do projeto
 
